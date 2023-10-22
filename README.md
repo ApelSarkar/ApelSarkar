@@ -4,10 +4,10 @@
 
 A software engineer with over two years of experience in developing innovative software solutions. Proficient in multiple programming languages, including PHP, Laravel , Java, and JavaScript, with a strong foundation in data structures and algorithms. Demonstrated expertise in full-stack development, having contributed to the design and implementation of both front-end and back-end systems.
 
-Skills: PHP / Laravel / Java / VUE JS / HTML / CSS / Javascript / Bootstrap
+Skills: PHP / Laravel / Java / Vue JS / HTML / CSS / Javascript / Bootstrap
 
 - 🔭 I’m currently working on Multinational Software Company 
-- 🌱 I’m currently learning REACT 
+- 🌱 I’m currently learning Vue 
 - 👯 I’m looking to collaborate on Github 
 - 📫 How to reach me **apel.dev.it@gmail.com**
 
